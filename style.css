@@ -1,0 +1,94 @@
+body {
+    background-color: black;
+}
+#invert {
+    margin-left: 111px;
+}
+#grüsse {
+    margin-top: 3px;
+    margin-left: 33%;
+}
+h1 {
+    text-align: center;
+    color: rgb(212, 177, 125);
+    margin-top:3%;
+    font-family: sans-serif;
+    font-size: 33px;
+}
+h3 {
+    color: rgb(211, 140, 35);
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+p {
+    text-align: block;
+    color: rgba(255, 235, 205, 0.65);
+    font-family: sans-serif;
+    font-size: large;
+    margin: 5% 25%;
+    text-align: left;
+}
+.top {
+    margin-top: 30%;
+}
+#ibutton {
+    height: 150px;
+    display: block;
+}
+#interview {
+    margin-top: 20px;
+    width: 160px;
+}
+#interview:hover {
+    width:140px;
+}
+#herz {
+    margin-top: 0px;
+    font-size: 55px;
+    text-align: center;
+}
+.home {
+    text-align: center;
+    padding-top: 10%;
+}
+li {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: rgba(255, 235, 205, 0.801);
+    list-style-type: none;
+}
+div {
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+a {
+    color:royalblue
+}
+a:hover {
+    color: rgb(117, 100, 224);
+}
+/* a:visited {
+    color: rgba(34, 161, 98, 0.719);
+} */
+
+.darker {
+    color: rgba(231, 161, 56, 0.801);
+    font-size: 15px;
+    margin-left: 33%;
+}
+.homebutt {
+    width: min-content;
+}
+.homebutt:hover {
+    width:77px;
+}
+#txtiview {
+    text-align: left;
+}
+#adresse {
+    text-align: left;
+    margin-left: 40%;
+    margin-right: 40%;
+}
